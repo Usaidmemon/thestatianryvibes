@@ -2,7 +2,7 @@ DOCTYPE html>
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Lubaba's Website</title>
+<title>usaid'sWebsite</title>
 <style>
 body {
 background-color: #f2f2f2;
@@ -19,7 +19,8 @@ color: #333;
 </style>
 </head>
 <body>
-<h1>Welcome to Lubaba’s Website 🌸</h1>
+<h1>Welcome to LWebsite 🌸</h1>
 <p>This is my first free website made on GitHub Pages!</p>
 </body>
+
 </html>
